@@ -3,3 +3,6 @@ git remote add origin https://github.com/usuario/repositorio.git
 git add .
 git commit -m "first commit"
 git push -u origin master 
+
+# Para borrar
+rm -rf .git
